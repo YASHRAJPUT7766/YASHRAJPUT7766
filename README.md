@@ -72,10 +72,7 @@ Currently leveling up in **Backend Development** and **API Architecture**.
 <p align="center">
   <a href="https://quizztech.netlify.app">
   <img src="https://github.com/YASHRAJPUT7766/Quiztech/blob/main/assets/images/logo.png" width="220" alt="Quiztech Preview"/>
-  </a>
-  <a href="https://tynixor.netlify.app">
-    <img src="https://raw.githubusercontent.com/YASHRAJPUT7766/YASHRAJPUT7766/main/app2.png" width="220" alt="Tynixor Preview"/>
-  </a>
+  
 </p>
 
 <p align="center">
